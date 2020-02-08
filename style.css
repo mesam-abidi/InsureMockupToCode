@@ -204,6 +204,30 @@ span{
 /* .ContentInnerDiv2image{
  height: 250px;
  width: 250px;
-} */
+} */s
 
+/*Footr Css Starts*/
+footer{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.ft-logo-img{
+    height: 50px;
+    width: 10%;
+}
+
+
+.footerdiv1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* width: 30%; */
+}
+
+
+.footer-div-icons{
+    border: 1px solid black;
+}
 
